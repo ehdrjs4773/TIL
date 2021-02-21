@@ -1,7 +1,15 @@
-if(10 > 5){
-    console.log("hi");
+const title = document.querySelector("#title");
 
-}else
-{console.log("ho");
+const CLICKED_CLASS = "clicked";
 
+
+function handleClick()
+{
+    title.classList.toggle(CLICKED_CLASS);
 }
+
+function init(){
+    title.addEventListener("click", handleClick);
+}
+
+init();
