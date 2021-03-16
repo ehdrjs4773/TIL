@@ -10,6 +10,6 @@ https://github.com/KimED5327/3D_RPG_Project
 HTML / CSS OverWatch Character Select 
  https://github.com/ehdrjs4773/TIL/tree/main/HTML:CSS:JS/overwatch
 
-//2021 03 09
-HTML / CSS / JS Starbucks Sub Menu Update
-                Main Menu Update (20%)
+//2021 03 16
+HTML / CSS / JS Starbucks Clone-Coding 0.1v Update
+https://github.com/ehdrjs4773/TIL/tree/main/HTML:CSS:JS/JS-BASICS/BASICS/starbucks
